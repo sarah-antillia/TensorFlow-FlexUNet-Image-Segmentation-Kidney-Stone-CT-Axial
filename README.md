@@ -20,12 +20,12 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <br><br>
 <table >
 <tr>
-<th>Input: image</th>
-<th>Mask (ground_truth)</th>
-<th>Prediction:inferred_mask</th>
+<th width="320" height="20">Input: image</th>
+<th width="320" height="20">Mask (ground_truth)</th>
+<th width="320" height="20">Prediction:inferred_mask</th>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10018.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10018.png" C></td>
 <td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10018.png" width="320" height="320"></td>
 <td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10018.png" width="320" height="320"></td>
 </tr>
