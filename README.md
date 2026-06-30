@@ -25,23 +25,20 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <th>Prediction:inferred_mask</th>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10018.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10018.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10018.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10018.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10018.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10018.png" width="320" height="320"></td>
 </tr>
-
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10060.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10060.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10060.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10060.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10060.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10060.png" width="320" height="320"></td>
 </tr>
-
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10350.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10350.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10350.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/images/10350.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test/masks/10350.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/Kidney-Stone-CT-Axial/mini_test_output/10350.png" width="320" height="320"></td>
 </tr>
- 
 </table>
 <hr>
 <br>
